@@ -1,0 +1,19 @@
+{
+  "name": "my-crypto-web",
+  "version": "1.0.0",
+  "description": "Crypto news and token pricing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mralimov/my-crypto-web.git"
+  },
+  "author": "Donnie Alimov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mralimov/my-crypto-web/issues"
+  },
+  "homepage": "https://github.com/mralimov/my-crypto-web#readme"
+}
