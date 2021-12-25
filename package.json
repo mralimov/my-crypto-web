@@ -18,8 +18,18 @@
   },
   "homepage": "https://github.com/mralimov/my-crypto-web#readme",
   "dependencies": {
+    "@ant-design/icons": "^4.7.0",
+    "@reduxjs/toolkit": "^1.7.1",
+    "antd": "^4.17.4",
+    "axios": "^0.24.0",
+    "chart.js": "^3.7.0",
+    "html-react-parser": "^1.4.4",
+    "millify": "^4.0.0",
+    "moment": "^2.29.1",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-chartjs-2": "^4.0.0",
+    "react-dom": "^17.0.2",
+    "react-redux": "^7.2.6"
   },
   "devDependencies": {
     "@babel/core": "^7.16.5",
@@ -29,6 +39,7 @@
     "css-loader": "^6.5.1",
     "file-loader": "^6.2.0",
     "mini-css-extract-plugin": "^2.4.5",
+    "react-router-dom": "^6.2.1",
     "sass": "^1.45.1",
     "sass-loader": "^12.4.0",
     "style-loader": "^3.3.1",
